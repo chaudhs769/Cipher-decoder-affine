@@ -3,9 +3,7 @@ A CLI to work with affine ciphers
 Installation
 Clone this Repo 
 
-```git
-git clone https://github.com/chaudhs769/Cipher-decoder-affine ~/.affine
 ```
-Add this line to .bashrc
+git clone https://github.com/chaudhs769/Cipher-decoder-affine affine
+mv affine/bin/* /usr/local/bin/*
 ```
-export PATH="$PATH:~/.affine/bin/"
